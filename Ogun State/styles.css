@@ -1,0 +1,99 @@
+body{
+    text-align: center;
+    margin: 0;
+    color: yellow;
+}
+
+#state-image{
+    background-image: url("Images/Ogun\ State.jpeg");
+    background-size: cover;
+    height: 300px;
+    padding: 40px 20px 0 20px;
+}
+
+#b-color{
+    background: linear-gradient(blue yellow);
+}
+
+.Ogun{
+    background: blue;
+    margin: 0 200px 0 200px;
+    padding: 4px 6px 4px 6px;
+    border: 3px solid whitesmoke;
+    border-radius: 20px;
+}
+
+#more{
+    background: blue;
+    margin: 20px 80px 0 80px;
+    border: 3px solid whitesmoke;
+    padding: 5px 10px 5px 10px;
+    border-radius: 30px;
+}
+
+#container-2{
+    color: blue;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#his{
+    width: 150px;
+    border-radius: 50%;
+}
+
+#fes{
+    width: 150px;
+    border-radius: 50%;
+}
+
+#tou{
+    width: 150px;
+    border-radius: 50%;
+}
+
+#h-texts{
+    color: blue;
+    display: flex;
+    justify-content: space-around;
+}
+
+#sub-texts{
+    color: blue;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#sub-texts-2{
+    color: blue;
+    display: flex;
+    justify-content: space-around;
+}
+
+#tiv{
+    margin-left: 115px;
+    margin-right: 0;
+}
+
+#head{
+    color: blue;
+}
+
+#pic{
+    width: 200px;
+    height: 300px;
+}
+#card{
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    width: 600px;
+    margin: 20px auto;
+    border: 6px solid red;
+    background-color: lightsalmon;
+    color: blueviolet;
+    padding: 10px 20px;
+    text-align: center;
+}
+
