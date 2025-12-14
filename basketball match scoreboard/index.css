@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    color: white;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    background-color: #121b54;
+    margin:  20px 120px 20px 120px;
+    padding: 2px 15px 20px 15px;
+    border: 6px solid palegreen;
+    border-radius: 5px;
+}
+
+#Black {
+    color: black;
+    text-align: center;
+}
